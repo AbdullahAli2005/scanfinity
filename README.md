@@ -21,7 +21,7 @@ A simple yet powerful Flutter app that allows users to **scan** and **generate**
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/AbdullahAli2005/scanfinity.git
    ```
 2. Navigate to the project folder:
    ```sh
